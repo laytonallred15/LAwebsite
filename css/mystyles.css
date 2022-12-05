@@ -1,0 +1,89 @@
+site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important; 
+}
+img{
+    width: 40%;
+    border: black;
+    padding: 3px;
+    margin: 3px;
+}
+.myitalics{
+    font-style: italic;
+}
+.myimg{
+    width: 50% !important;
+}
+.topnav {
+    background-color: blanchedalmond;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+
+  .topnav a {
+    float: left;
+    color: brown;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+ 
+  .topnav a:hover {
+    background-color: brown;
+    color: black;
+  }
+  
+
+  .topnav a.active {
+    background-color: brown;
+    color: white;
+  }
+ 
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.videocenter{
+ align-items: center;
+ border: black;
+ align-content: center;
+ text-align: center;
+  }
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  color: blanchedalmond;}
+  h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+  }
+  h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:blanchedalmond;
+  }
+  .bottomnav{
+      color: brown;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+  }
+  .bottomnav2 {
+    background-color: blanchedalmond;
+    overflow: hidden;
+  }
+
